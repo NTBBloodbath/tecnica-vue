@@ -8,6 +8,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), vueDevTools(), tailwindcss()],
+  base: "https://ntbbloodbath.github.io/tecnica-vue",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),

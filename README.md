@@ -37,6 +37,7 @@ Aplicación web con Vue.js 3 para personalizar la apariencia de artículos en ti
 - Testing completo (32 tests)
 - Tamaño personalizado de tipografía (opciones extra de personalización)
 - Elementos adicionales en el cuerpo del artículo (separadores visuales automáticos)
+- Deploy a GitHub pages
 
 ## Stack Tecnológico
 
