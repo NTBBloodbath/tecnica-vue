@@ -46,8 +46,8 @@ function saveToStorage(state: CustomizationState): void {
 /**
  * Pinia store for managing article customization state
  *
- * Handles global and element-specific styling with automatic localStorage persistence.
- * Changes are watched and saved automatically using Vue's reactivity system.
+ * Handles global and element-specific styling with automatic localStorage persistence
+ * Changes are watched and saved automatically using Vue's reactivity system
  */
 export const useCustomizationStore = defineStore('customization', () => {
   const stored = loadFromStorage()

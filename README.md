@@ -35,6 +35,8 @@ Aplicación web con Vue.js 3 para personalizar la apariencia de artículos en ti
 - Sistema de temas predefinidos
 - Código documentado con JSDoc
 - Testing completo (32 tests)
+- Tamaño personalizado de tipografía (opciones extra de personalización)
+- Elementos adicionales en el cuerpo del artículo (separadores visuales automáticos)
 
 ## Stack Tecnológico
 
@@ -66,6 +68,10 @@ src/
 ```
 
 ## Instalación y Uso
+
+> [!NOTE]
+>
+> Puede utilizarse tanto `npm` como `pnpm`, es una preferencia personal y no afecta a los scripts del archivo `package.json` al momento de ejecutar el proyecto.
 
 ### Instalar dependencias
 
